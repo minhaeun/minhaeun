@@ -2,9 +2,9 @@
   
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haeunee6575@gmail.com)
   
-#### 👋 Hi there! I'm haeun🐤
+#### 👋 Hi there! I'm haeun 🐤🐤
 
-## 💪 Skills
+## 💪 Skills 
 
 ### Platforms & Languages
 
